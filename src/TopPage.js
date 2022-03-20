@@ -100,13 +100,13 @@ class TopPage extends Component {
                      <p style={{ color: "#87CEEB", fontSize: "18px"  }}>Follow our Socials and Stay connected</p>
                 </div>
                 <div style={{ textAlign: "center", marginTop:"20px" }}>
-                    <a href="https://twitter.com/PRMCoin"><img src={twitter} style={{ paddingLeft:"20px"}} width="60" /> 
+                    <a href="https://twitter.com/PRMCoin"><img src={twitter} style={{ paddingLeft:"20px"}} alt="" width="60" /> 
                     </a> 
-                    <a href="https://t.me/OfficialPRM"><img src={telegram} style={{ paddingLeft:"20px"}} width="60" /> 
+                    <a href="https://t.me/OfficialPRM"><img src={telegram} style={{ paddingLeft:"20px"}} alt="" width="60" /> 
                     </a> 
-                        <a href="https://www.instagram.com/primalnetworkofficial/?hl=en"><img src={instagram} style={{ paddingLeft:"20px"}} width="60" /> 
+                        <a href="https://www.instagram.com/primalnetworkofficial/?hl=en"><img src={instagram} style={{ paddingLeft:"20px"}} alt="" width="60" /> 
                     </a> 
-                    <a href="https://t.me/PRMOfficial"><img src={telegram} style={{ paddingLeft:"20px"}} width="60" /> 
+                    <a href="https://t.me/PRMOfficial"><img src={telegram} style={{ paddingLeft:"20px"}} alt="" width="60" /> 
                     </a> 
                 </div>
                 
