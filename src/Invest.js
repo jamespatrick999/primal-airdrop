@@ -124,7 +124,7 @@ export class Invest extends Component {
                             <p style={{ color: "#eee97f", textAlign: "center", fontSize: "15px" }}>Claimable : 3 PRM</p> 
 
                             <div style={{ textAlign: "center" }}>
-                                <button type="submit" className="btn btn-success" style={purchaseButton}>Purchase</button> 
+                                <button type="submit" className="btn btn-success" style={purchaseButton}>Claim</button> 
                             </div>
  
                         </form>

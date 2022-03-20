@@ -1,8 +1,8 @@
 import detectEthereumProvider from '@metamask/detect-provider';
 import { ethers, Contract } from 'ethers'; 
 
-const tokenAddress = "0x9F8ECC89385C353EA0A1C70359B112C31Bab91dd"; 
-const contractAddress = "0x1985A54f26624B61c9855e316bDE5366A6403acf";
+const tokenAddress = "0x2668BAbeAB11780c516B1d3aD02011668AFF8aa0"; 
+const contractAddress = "0x2b0e84FFC2a66A214bD57b09060c41be7c2cb16C";
 
 const tokenABI = [
 	{
