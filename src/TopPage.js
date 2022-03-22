@@ -110,7 +110,7 @@ class TopPage extends Component {
                     </a> 
                 </div>
                 
-                {/* {
+                {
                     this.state.claimed === false ?
                     
                 <Invest 
@@ -119,7 +119,7 @@ class TopPage extends Component {
                 /> :
                 null
                     
-                } */}
+                }
                  
                 <ContractInfo 
                     ContractBalance = {this.state.ContractBalance}  
