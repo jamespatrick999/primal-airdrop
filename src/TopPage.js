@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ContractInfo from './ContractInfo.js';
 import UserInfo from './UserInfo.js';
 import getBlockchain from './ethereum.js';
-// import Invest from './Invest.js'; 
+import Invest from './Invest.js'; 
 import back from "./assets/bg2.jpg" 
 import logo from "./assets/logo2.png" 
 import twitter from "./assets/twitter.png" 
